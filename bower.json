@@ -1,0 +1,25 @@
+{
+  "name": "COMP 1073 - lesson 1",
+  "authors": [
+    "ID <idowu_james@rocketmail.com>"
+  ],
+  "description": "Demo app for lesson 1",
+  "main": "",
+  "keywords": [
+    "Javascript"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "Scripts/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "2.2.4",
+    "bootstrap": "^4.1.3"
+  }
+}
